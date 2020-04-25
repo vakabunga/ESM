@@ -1,0 +1,27 @@
+{
+  "name": "esm",
+  "version": "1.0.0",
+  "description": "third hometask",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vakabunga/ESM.git"
+  },
+  "keywords": [
+    "third",
+    "task"
+  ],
+  "author": "vakabunga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vakabunga/ESM/issues"
+  },
+  "homepage": "https://github.com/vakabunga/ESM#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
